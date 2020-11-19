@@ -216,7 +216,7 @@
         android:layout_alignLeft="@+id/buttontan"
         android:layout_alignStart="@+id/buttontan"
         android:layout_below="@+id/buttontan"
-        android:text="inv" />
+        android:text="pi" />
 
     <Button
         android:id="@+id/buttoneql"
