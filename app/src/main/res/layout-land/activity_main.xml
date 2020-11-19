@@ -20,7 +20,7 @@
         android:layout_alignEnd="@+id/button4"
         android:layout_alignRight="@+id/button4"
         android:layout_below="@+id/edit"
-        android:layout_marginTop="94dp"
+        android:layout_marginTop="10dp"
         android:text="1" />
 
     <Button
@@ -65,7 +65,7 @@
         android:layout_alignTop="@+id/buttonadd"
         android:layout_alignEnd="@+id/edit"
         android:layout_alignRight="@+id/edit"
-        android:layout_marginRight="46dp"
+        android:layout_marginRight="240dp"
         android:layout_centerHorizontal="true"
         android:text="sin" />
 
@@ -227,7 +227,7 @@
         android:layout_alignRight="@+id/buttontan"
         android:layout_alignStart="@+id/buttondecimal"
         android:layout_below="@+id/button0"
-        android:layout_marginTop="37dp"
+        android:layout_marginTop="10dp"
         android:text="=" />
 
 </RelativeLayout>
