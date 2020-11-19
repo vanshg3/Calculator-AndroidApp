@@ -22,4 +22,5 @@
     <item name="buttoncos" type="id" />
     <item name="buttontan" type="id" />
     <item name="buttondecimal" type="id" />
+    <item name="relative1" type="id" />
 </resources>
